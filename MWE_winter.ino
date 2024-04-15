@@ -1,5 +1,5 @@
 // Assign hardware pins
-const int bat_adc = 0; 
+const int bat_adc = 1; 
 const int temp_1_pin = 2;
 const int temp_2_pin = 3;
 const int temp_3_pin = 4;
